@@ -1,7 +1,5 @@
 # SQL-Data-Exploration
 
-# README
-
 ## Overview
 This document provides an overview of the SQL file **SQL-Data-Exploration**, which contains database queries and scripts relevant to a specific case study. The file includes table creation statements, data insertion queries, and potentially analytical queries for insights.
 
